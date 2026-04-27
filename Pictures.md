@@ -13,10 +13,10 @@ Clarity (清晰)： 繁體中文標註必須直擊痛點，字體結構穩重、
 Context (情境)： 創造讓用戶「感同身受」的真實使用場景，而非冰冷的去背圖。
 Call-to-Action (行動)： 最後一張圖必須具備極強的催促感，消除所有購買疑慮。
 
-##　HVCF 設計公式
+＃＃　HVCF 設計公式
 （Hook → Value → Credibility → Flow）
 
-##　T.H.E.R.E 排版法則
+＃＃　T.H.E.R.E 排版法則
 （Type → Hierarchy → Emphasis → Rhythm → Economy）
 
 -----
